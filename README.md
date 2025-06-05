@@ -28,4 +28,4 @@ npm run dev  # For Vite
 or
 npm start    # For Create React App
 
-Open by ctrl + clicking the link in your browser.
+Open by ctrl + clicking the link in your terminal.
