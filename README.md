@@ -24,9 +24,8 @@ cd task-manager
 2. Install Dependencies
 npm install
 3. Run the App
-bash
 npm run dev  # For Vite
 or
 npm start    # For Create React App
 
-Open http://localhost:3000 in your browser.
+Open by ctrl + clicking the link in your browser.
